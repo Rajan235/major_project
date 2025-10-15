@@ -3,3 +3,4 @@ data/*
 
 # Un-ignore (keep) this specific file
 !data/synthetic_ipdrs.csv
+!data/ipdr_synthetic_4 (7-10%).csv
